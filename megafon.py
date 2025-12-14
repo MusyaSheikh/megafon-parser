@@ -47,7 +47,7 @@ def log_error(message: str):
     logger.error(message)
 
 
-RUCAPTCHA_KEY = "YOUR_RUCAPTCHA_KEY"
+RUCAPTCHA_KEY = "YOUR_RUCAPTCHA_KEY"  # Вставьте свой ключ с rucaptcha.com
 
 REGIONS = {
     'altay': '738', 'amur': '495', 'arhangelsk': '655', 'astrakhan': '255', 'bel': '815', 'brn': '596',

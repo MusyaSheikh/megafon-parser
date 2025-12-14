@@ -41,12 +41,17 @@ user:pass@ip:port
 ip:port
 ```
 
-3. Запустите:
+3. Укажите ваш API-ключ RuCaptcha в файле `megafon.py`:
+```python
+RUCAPTCHA_KEY = "ВАШ_КЛЮЧ_RUCAPTCHA"  # Получите на rucaptcha.com
+```
+
+4. Запустите:
 ```bash
 python megafon.py
 ```
 
-4. Выберите регионы и настройки в интерактивном меню
+5. Выберите регионы и настройки в интерактивном меню
 
 ## Конфигурация
 
