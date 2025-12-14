@@ -14,7 +14,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/megafon-parser.git
+git clone https://github.com/MusyaSheikh/megafon-parser.git
 cd megafon-parser
 pip install -r requirements.txt
 ```
