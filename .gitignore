@@ -1,0 +1,27 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+
+# Данные
+*.log
+*.session
+numbers_*.txt
+captcha_*.jpg
+
+# Конфиг с приватными данными
+proxies.txt
+mask.txt
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+.claude/
